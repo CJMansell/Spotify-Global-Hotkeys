@@ -1,0 +1,9 @@
+﻿{
+    "spotify":  {
+                    "found":  true,
+                    "type":  "store",
+                    "launchTarget":  "spotify:"
+                },
+    "soundVolumeViewPath":  "C:\\Users\\cjman\\Downloads\\Spotify Package\\soundvolumeview-x64\\SoundVolumeView.exe",
+    "volumeStep":  5
+}
